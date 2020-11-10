@@ -1,5 +1,8 @@
 _repo: Estampas-de-viaje-Espana-en-los-dias-de-la-guerra_63587
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63587-h/images/cover.jpg
 creator:
   author:
     agent_name: Urbina, Luis G. (Luis Gonzaga)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52412
     wikipedia: https://es.wikipedia.org/wiki/Luis_Gonzaga_Urbina#Obra_po%C3%A9tica
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63587#Estampas-de-viaje-Espana-en-los-dias-de-la-guerra
 gutenberg_issued: '2020-10-31'
 gutenberg_type: Text
 identifiers:
